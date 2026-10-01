@@ -1,0 +1,6 @@
+my-website/
+│
+├── index.html      ← الصفحة الرئيسية
+├── style.css       ← ملف التصميم
+├── script.js       ← ملف التفاعل
+└── images/         ← مجلد الصور
